@@ -19,10 +19,10 @@
 
 @media (max-width: 425px) {
     .informacoes .Logo{
-        max-width: 300px;
+        max-width: 320px;
     }
     .informacoes .descricao{
-        width:70%;
+        width:85%;
     }
     .menu-lateral{
         position: static;
