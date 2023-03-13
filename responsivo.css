@@ -22,7 +22,7 @@
         max-width: 320px;
     }
     .informacoes .descricao{
-        width: 90%;
+        width: 92%;
     }
     .menu-lateral{
         position: static;
@@ -34,10 +34,10 @@
         flex-direction: column;
     }
     .conteudo{
-        min-height: 70vh;
-        gap: 50px;
+        min-height: 85vh;
+        gap: 20px;
     }
     body{
-        padding: 40px;
+        padding: 60px;
     }
 }
